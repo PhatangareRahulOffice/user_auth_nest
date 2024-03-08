@@ -1,0 +1,24 @@
+nest 
+under the hood 
+1. Nest js makes use of robust HTTP server frameworks (default Expressjs )
+2.  It provides a level of abstraction above these frameworks,
+ which makes it incredibly joyful to code in TS. However, it still expose the original APIs dirctly to the devloper.
+
+
+Why nest js 
+ 1. The rise of populor web technologies such as Angular, React ,vue has massively improved the development experience.
+ 2. however, while Node.Js has plently of great  libraries, none of them effectivly solve the main problem of architecture
+ 3. NestJs provides an out-of-the-box application architecture which allows developers and teams to create highly testable,
+  scalable, loosely coupled and easy to maintain applications.
+
+NestJs cli 
+ 1. The nestjs cli is a command line interface tool that helps you to intialize and develop your applications.
+ 2. It has many befits - from scaffolding a project, to building a well-strutured application.
+ 3. It is possible to gerate a project and genrate schematics in project using cli. this leaves almost no room for mistakes in teams of projects struture.
+ 4. using cli its also save time for writing boiler plate code.
+
+
+
+Step 2 .
+ Installation nest cli 
+ 
